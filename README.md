@@ -23,7 +23,7 @@ Network penetration testing involves evaluating the security of a network by sim
 | Requirement     | Description    |
 | --------------- | -------------- |
 | OS 1 (Attacker) | Kali Linux     |
-| OS 2 (Target)   | Metasploitable |
+| OS 2 (Target)   | Metasploitable 2 |
 
 ---
 
@@ -32,7 +32,7 @@ Network penetration testing involves evaluating the security of a network by sim
 | Tool                | Purpose                                     |
 | ------------------- | ------------------------------------------- |
 | **Kali Linux**      | Attacking platform with pentesting tools    |
-| **Metasploitable**  | Vulnerable machine to simulate real attacks |
+| **Metasploitable 2**  | Vulnerable machine to simulate real attacks |
 | **Nmap**            | Network scanning, port/service enumeration  |
 | **Metasploit**      | Exploiting vulnerabilities                  |
 | **John the Ripper** | Cracking password hashes from `/etc/shadow` |
